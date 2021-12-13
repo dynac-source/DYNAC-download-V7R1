@@ -5,11 +5,13 @@ LINUX, MAC and WINDOWS downloads for the simulation code DYNAC V7R1 can be found
 **MODIFICATIONS PERTAINING TO DYNAC V7R1 (1-May-2020)**  
 Modifications to DYNAC V7R1 (text file) [modV7R1.txt](https://github.com/dynac-source/DYNAC-download/files/6633795/modV7R1.txt)  
 
-**OPERATING SYSTEM REQUIREMENTS FOR DYNAC**  
-DYNAC needs to be compiled with gfortran, which is available from the gfortran web site. DYNAC has been successfully tested with gfortran/gcc 8.1.0 and older
-GNU Plot (ZIP format) for WINDOWS can be obtained from the gnuplot web site.
+
+**REQUIRED SOFTWARE FOR DYNAC**  
+DYNAC needs to be compiled with gfortran, which is available from the [gfortran web site](http://gcc.gnu.org/wiki/GFortranBinaries). DYNAC has been successfully tested with gfortran/gcc 9.2.0 and older.
+GNU Plot (ZIP format) for WINDOWS can be obtained from the [gnuplot web site](http://sourceforge.net/projects/gnuplot/).
 Using the same link you can find a GNU Plot download for the MAC (download not always required for LINUX, as gnuplot is standard with some flavors of LINUX). On the MAC, it is suggested to install gnuplot with the wxt terminal (e.g. brew install gnuplot --with-wxmac --with-cairo), as it is considerably faster than the aqua terminal.
-DYNAC has been succesfully tested on LINUX (Red Hat 4.4.7-17 and Mint), MAC (Mojave, High Sierra and some older) and WINDOWS (10 and older).
+
+DYNAC has been succesfully tested on LINUX (Mint 20.2 and older, Red Hat 4.4.7-17), MAC (Catalina, Mojave and some older) and WINDOWS (10 and older).
 
 **OPEN ISSUES (1-May-2020)**  
 The charge stripper model requires further development (e.g. energy loss model).
