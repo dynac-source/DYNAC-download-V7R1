@@ -1,0 +1,1 @@
+gfortran dyndat.f90 -o dynplt
