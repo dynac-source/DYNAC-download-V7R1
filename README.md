@@ -18,7 +18,7 @@ The charge stripper model requires further development (e.g. energy loss model).
 
 **DYNAC V7R1 (FULL PACKAGE)**  
 DYNAC source, data, plot and help files (for WINDOWS, ZIP format) [dynacv7r1_w.zip](https://github.com/dynac-source/DYNAC-download/blob/main/dynacv7r1_w.zip)  
-DYNAC source, data, plot and help files (for LINUX/MAC, tar/gz format) [dynacv7r1.tar.gz] (https://github.com/dynac-source/DYNAC-download/blob/main/dynacv7r1.tar.gz)  
+DYNAC source, data, plot and help files (for LINUX/MAC, tar/gz format) [dynacv7r1.tar.gz](https://github.com/dynac-source/DYNAC-download/blob/main/dynacv7r1.tar.gz)  
 
 Note: To unzip the linux/mac version, type: tar xvfz dynacv7r1.tar.gz  
 
