@@ -46,11 +46,12 @@ Instructions for installation after downloading are in the [DGUI User Guide](htt
 Modifications pertaining to DGUI V2R2 (1-May-2020): [dgui_modV2R2.txt](https://github.com/dynac-source/DYNAC-download/files/7769687/dgui_modV2R2.txt)  
 
 Please refer to the DGUI User Guide for download and installation instructions.  
-DGUI source (.py)
-DGUI icon (.png) to be stored in directory dynac/bin
+DGUI source (.py) [dgui.py](https://github.com/dynac-source/DYNAC-download/blob/main/dgui.py)  
+DGUI icon (.png) to be stored in directory dynac/bin [dynicon.png](https://github.com/dynac-source/DYNAC-download/blob/main/dynicon.png)  
 DGUI example .ini file for linux and MAC [dgui_example_linmac.ini](https://github.com/dynac-source/DYNAC-download/blob/main/dgui_example_linmac.ini)  
 DGUI example .ini file for  Windows [dgui_example_windows.ini](https://github.com/dynac-source/DYNAC-download/blob/main/dgui_example_windows.ini)  
 DGUI User Guide (pdf format) [DGUI User Guide](https://github.com/dynac-source/DYNAC-download/blob/main/dgui_UG.pdf)  
+
 *Note: The example .ini file needs to be renamed to dgui.ini (see User Guide)*  
 
 **Other DYNAC utilities** 
