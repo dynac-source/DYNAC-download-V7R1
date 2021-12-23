@@ -29,12 +29,12 @@ DYNAC input file (example) for describing the field in an electron gun (text for
 DYNAC input file for the SNS H- MEBT (Medium Energy Beam Transport) line and DTL Tank 1 (text format) [sns_mebt_dtl1.in](https://github.com/dynac-source/DYNAC-download/blob/main/sns_mebt_dtl1.in)  
 DYNAC source (for WINDOWS, ZIP format) [dynacv7r1_w_source.zip](https://github.com/dynac-source/DYNAC-download/files/6633779/dynacv7r1_w_source.zip)    
 Script to compile the DYNAC source (for WINDOWS, .bat file) [comv7.bat](https://github.com/dynac-source/DYNAC-download/blob/main/comv7.bat)  
-DYNAC source file (for LINUX and MAC, tar/gz format) 
-Script to compile the DYNAC source (for LINUX and MAC, text format) [comv7][dynacv7r1_source.tar.gz](https://github.com/dynac-source/DYNAC-download/files/7769414/dynacv7r1_source.tar.gz)  
+DYNAC source file (for LINUX and MAC, tar/gz format) [dynacv7r1_source.tar.gz](https://github.com/dynac-source/DYNAC-download/files/7769414/dynacv7r1_source.tar.gz)  
+Script to compile the DYNAC source (for LINUX and MAC, text format) [comv7](https://github.com/dynac-source/DYNAC-download/blob/main/comv7)  
 
 
-dyndat.f90 (used by PLOTIT; source file (V3.1) in text format; download dyndat.txt to the dynac/plot directory and change the extension from .txt to .f90)[dyndat.txt](https://github.com/dynac-source/DYNAC-download/files/6633838/dyndat.txt)  
+[dyndat.f90](https://github.com/dynac-source/DYNAC-download/blob/main/dyndat.f90) (source file (V3.1) in text format) is used for GNUPLOT based plots.
 Script to compile the dyndat source (for WINDOWS, .bat file) [complt.bat](https://github.com/dynac-source/DYNAC-download/blob/main/complt.bat)   
-Script to compile the dyndat source (for LINUX and MAC, text format) [complt]()  
+Script to compile the dyndat source (for LINUX and MAC, text format) [complt](https://github.com/dynac-source/DYNAC-download/blob/main/complt)  
 
 Note: To unzip the linux/mac version of the source, type: tar xvfz dynacv7r1_source.tar.gz
