@@ -24,11 +24,11 @@ Note: To unzip the linux/mac version, type: tar xvfz dynacv7r1.tar.gz
 
 **DYNAC V7R1 (INDIVIDUAL FILES)**  
 DYNAC User Guide (PDF format) [dynac_UG.pdf](https://github.com/dynac-source/DYNAC-download/files/6633231/dynac_UG.pdf)  
-DYNAC input file (example) for an electron gun (text format) [egun_example2.in]
+DYNAC input file (example) for an electron gun (text format) [egun_example2.in](https://github.com/dynac-source/DYNAC-download/blob/main/egun_example2.in)  
 DYNAC input file (example) for describing the field in an electron gun (text format; to be used with the egun example above) [egun_field.txt](https://github.com/dynac-source/DYNAC-download/files/6633699/egun_field.txt)  
 DYNAC input file for the SNS H- MEBT (Medium Energy Beam Transport) line and DTL Tank 1 (text format) [sns_mebt_dtl1.in](https://github.com/dynac-source/DYNAC-download/blob/main/sns_mebt_dtl1.in)  
 DYNAC source (for WINDOWS, ZIP format) [dynacv7r1_w_source.zip](https://github.com/dynac-source/DYNAC-download/files/6633779/dynacv7r1_w_source.zip)    
-Script to compile the DYNAC source (for WINDOWS, text format, whereby the extension should be renamed from .txt to .bat) [comv7.txt](https://github.com/dynac-source/DYNAC-download/files/6633804/comv7.txt)  
+Script to compile the DYNAC source (for WINDOWS, .bat) [comv7.bat]  
 DYNAC source file (for LINUX and MAC, tar/gz format)
 
 Script to compile the DYNAC source (for LINUX and MAC, text format)
