@@ -49,7 +49,7 @@ Script to compile the dyndat source (for LINUX and MAC, text format) [complt](ht
 
 *Note: To unzip the linux/mac version of the source, type: tar xvfz dynacv7r1_source.tar.gz*
 
-**DGUI (DYNAC Graphical User Interface, V2R2)**  
+# DGUI (DYNAC Graphical User Interface, V2R2)  
 DGUI is a Python3 based GUI to DYNAC. Alternatively, the DYNAC code can be exectued from the terminal.  
 DGUI V2R2 has been tested on LINUX (Mint 20 and older), MAC (Catalina and Mojave) and WINDOWS (10 and 7) and requires DYNAC V6R19 or newer and python3.8 or newer.
 Instructions for installation after downloading are in the [DGUI User Guide](https://github.com/dynac-source/DYNAC-download/blob/main/dgui_UG.pdf).  
