@@ -81,7 +81,8 @@ Cavity: [Description of the numerical method used in CAVNUM](https://github.com/
 Relativistic electrons and synchrotron radiation: [Synchrotron radiation in DYNAC](https://github.com/dynac-source/DYNAC-download/blob/main/synch_rad_2010_07_03.pdf)    
 
 **CONTACT**  
-Eugene Tanke  
+Eugene Tanke 
+Email: dynacatgithub at gmail.com  
 
 Updated 2-Jan-2022
   
