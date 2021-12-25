@@ -55,6 +55,8 @@ DGUI User Guide (pdf format) [DGUI User Guide](https://github.com/dynac-source/D
 *Note: The example .ini file needs to be renamed to dgui.ini (see User Guide)*  
 
 **Other DYNAC utilities**  
-[ptq2dyn.f](https://github.com/dynac-source/DYNAC-download/blob/main/ptq2dyn.f) : prepares the input data file used by the RFQPTQ card; source file in text format (compile with:  
-gfortran ptq2dyn.f -o ptq2dyn  
+[ptq2dyn.f](https://github.com/dynac-source/DYNAC-download/blob/main/ptq2dyn.f) : prepares the input data file used by the RFQPTQ card. Source file in text format, compile with:  
+*gfortran ptq2dyn.f -o ptq2dyn*  
 
+**<span style="color:darkorange">WARNING:</span> To disable TimeFrame-Zoom just use the same candles for `timeframe` & `backtest_timeframe`**
+```
