@@ -1,9 +1,19 @@
+# DYNAC-Home Page
+
+**DYNAC Multiparticle Beam Simulation Code for linear accelerators and beam transport lines**
+The computer code DYNAC contains a set of very accurate quasi-Liouvillian beam dynamics equations, introduced in 1994. It is applicable to protons, heavy ions and non-relativistic electrons. Long accelerating elements with complex and/or asymmetric longitudinal electromagnetic fields (e.g. superconducting cavities) may be treated as one cavity (in stead of individual cells) with this analytical method. This is achieved through the concept of the "equivalent accelerating field" [1].
+
+With the release of DYNAC V6R8, a numerical method became available in addition to the analytical method described above. The V6R8 version also already supported multi-charge state beams for a variety of beam line elements. This capability has been benchmarked against other beam dynamics codes [2]. In the V6R9 version, the electrostatic dipole was added. In the following versions there are various enhancements, such as an improved treatment of the RMS section in an RFQ and some corrections. Further benchmarking is reported in [3] and [4]. In V6R17 a thick lense model was added for multi-harmonic bunchers. The source code for V7R0 was changed to f90, a first step towards f90 conversion. Performance was improved in terms of execution time of the routines related to the RFQ and the numerical cavity model.
+
+DYNAC has several space charge routines, including a 3D space charge routine called HERSC [5]. This routine derives from the typical procedure adopted in mathematical physics; the problem is transposed from some point to point correspondence onto a functional space spanned by a finite sequence of 3D Hermite functions, where the analytical set of beam self-field equations is found without any sort of restriction or basic hypothesis.
+
 # DYNAC-download
 **DYNAC DOWNLOAD PAGE for DYNAC V7R1, a Multiparticle Beam Simulation Code for linacs and beam transport lines.**  
 LINUX, MAC and WINDOWS downloads for the simulation code DYNAC V7R1 can be found on this page. Instructions for installation after downloading are in the file: [readme.txt](https://github.com/dynac-source/DYNAC-download/files/6633754/readme.txt). This file is also contained in the full package below.
 
 **MODIFICATIONS PERTAINING TO DYNAC V7R1 (1-May-2020)**  
-Modifications to DYNAC V7R1 (text file) [modV7R1.txt](https://github.com/dynac-source/DYNAC-download/files/6633795/modV7R1.txt)  
+Please see the [change log](https://github.com/dynac-source/DYNAC-download/files/6633795/modV7R1.txt) for a full list of changes with respect to V7R0.  
+DYNAC V7R1 has some minor additions, modifications and corrections compared to the previous revision.
 
 
 **REQUIRED SOFTWARE FOR DYNAC**  
@@ -57,15 +67,32 @@ DGUI User Guide (pdf format) [DGUI User Guide](https://github.com/dynac-source/D
 **Other DYNAC utilities**  
 [ptq2dyn.f](https://github.com/dynac-source/DYNAC-download/blob/main/ptq2dyn.f) : prepares the input data file used by the RFQPTQ card. Source file in text format, compile with:  
 *gfortran ptq2dyn.f -o ptq2dyn*  
+An alternative to the above mentioned DYNAC GUI has been developed at MSU.
 
-```diff
-- text in red
-+ text in green
-! text in orange
-# text in gray
-@@ text in purple (and bold)@@
-```
+**REFERENCES**
+[1] LINAC2002 Conference paper on DYNAC (PDF format)
+[2] LINAC2012 Conference paper on DYNAC (PDF format)
+[3] LINAC2014 Conference paper on DYNAC (PDF format)
+[4] LINAC2016 Conference paper on DYNAC (PDF format)
+[5] LINAC2002 Conference paper on HERSC (PDF format)
+
+**More Information**
+More information on DYNAC can be found in the following presentations:  
+Presentation made at SNS in November 2002 PDF format, 0.9 MB)  
+Presentation made at GSI in April 2015 PDF format, 2.9 MB)  
+
+Detailed descriptions of some of the elements and methodologies used are available:  
+Electron gun. Click here to read more about the EGUN in DYNAC  
+RFQ. Click here to read more about the RFQ in DYNAC  
+Cavity. Click here to read more about the numerical method used in CAVNUM  
+Relativistic electrons and synchrotron radiation. Click here to read more about synchrotron radiation in DYNAC  
+The DYNAC source code is available from the DYNAC download page  
+
+**Contact**
+Eugene Tanke  
+
+Updated 2-Jan-2022
   
 
-- ![#f03c15](https://github.com/dynac-source) `#f03c15`
+
 
