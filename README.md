@@ -1,6 +1,6 @@
 # DYNAC-Home Page
 
-**DYNAC: A multiparticle Beam Simulation Code for linear accelerators and beam transport lines**
+**DYNAC: A multiparticle Beam Simulation Code for linear accelerators and beam transport lines**  
 The computer code DYNAC contains a set of very accurate quasi-Liouvillian beam dynamics equations, introduced in 1994. It is applicable to protons, heavy ions and non-relativistic electrons. Long accelerating elements with complex and/or asymmetric longitudinal electromagnetic fields (e.g. superconducting cavities) may be treated as one cavity (in stead of individual cells) with this analytical method. This is achieved through the concept of the "equivalent accelerating field" [1].
 
 With the release of DYNAC V6R8, a numerical method became available in addition to the analytical method described above. The V6R8 version also already supported multi-charge state beams for a variety of beam line elements. This capability has been benchmarked against other beam dynamics codes [2]. In the V6R9 version, the electrostatic dipole was added. In the following versions there are various enhancements, such as an improved treatment of the RMS section in an RFQ and some corrections. Further benchmarking is reported in [3] and [4]. In V6R17 a thick lense model was added for multi-harmonic bunchers. The source code for V7R0 was changed to f90, a first step towards f90 conversion. Performance was improved in terms of execution time of the routines related to the RFQ and the numerical cavity model.
