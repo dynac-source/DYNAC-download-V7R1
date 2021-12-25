@@ -58,4 +58,4 @@ DGUI User Guide (pdf format) [DGUI User Guide](https://github.com/dynac-source/D
 [ptq2dyn.f](https://github.com/dynac-source/DYNAC-download/blob/main/ptq2dyn.f) : prepares the input data file used by the RFQPTQ card. Source file in text format, compile with:  
 *gfortran ptq2dyn.f -o ptq2dyn*  
 
-<span style="font-size:14pt;color:#7CFC00;">*Green text 1*</span>
+<span style="font-size:14pt;color:#7CFC00;">Green text 1</span>
