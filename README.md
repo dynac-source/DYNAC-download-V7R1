@@ -67,7 +67,7 @@ DGUI User Guide (pdf format) [DGUI User Guide](https://github.com/dynac-source/D
 **OTHER DYNAC UTILITIES**  
 [ptq2dyn.f](https://github.com/dynac-source/DYNAC-download/blob/main/ptq2dyn.f) : prepares the input data file used by the RFQPTQ card. Source file in text format, compile with:  
 *gfortran ptq2dyn.f -o ptq2dyn*  
-An alternative to the above mentioned DYNAC GUI has been developed at MSU.
+An alternative to the above mentioned DYNAC GUI has been developed at [MSU](https://github.com/NSCLAlt/DynacGUI).
 
 **REFERENCES**  
 [^1] [LINAC2002 Conference paper on DYNAC](https://github.com/dynac-source/DYNAC-download/blob/main/LINAC2002_TH429.PDF) (PDF format)  
