@@ -70,11 +70,11 @@ DGUI User Guide (pdf format) [DGUI User Guide](https://github.com/dynac-source/D
 An alternative to the above mentioned DYNAC GUI has been developed at [MSU](https://github.com/NSCLAlt/DynacGUI).
 
 **REFERENCES**  
-[^1] [LINAC2002 Conference paper on DYNAC](https://github.com/dynac-source/DYNAC-download/blob/main/LINAC2002_TH429.PDF) (PDF format)  
-[^2] [LINAC2012 Conference paper on DYNAC](https://github.com/dynac-source/DYNAC-download/blob/main/LINAC2012_thpb065.pdf) (PDF format)  
-[^3] [LINAC2014 Conference paper on DYNAC](https://github.com/dynac-source/DYNAC-download/blob/main/LINAC2014_thpp043.pdf) (PDF format)  
-[^4] [LINAC2016 Conference paper on DYNAC](https://github.com/dynac-source/DYNAC-download/blob/main/LINAC2016_MOPRC007.pdf) (PDF format)  
-[^5] [LINAC2002 Conference paper on HERSC](https://github.com/dynac-source/DYNAC-download/blob/main/LINAC2002_TH424.PDF) (PDF format)  
+[^1]: [LINAC2002 Conference paper on DYNAC](https://github.com/dynac-source/DYNAC-download/blob/main/LINAC2002_TH429.PDF) (PDF format)  
+[^2]: [LINAC2012 Conference paper on DYNAC](https://github.com/dynac-source/DYNAC-download/blob/main/LINAC2012_thpb065.pdf) (PDF format)  
+[^3]: [LINAC2014 Conference paper on DYNAC](https://github.com/dynac-source/DYNAC-download/blob/main/LINAC2014_thpp043.pdf) (PDF format)  
+[^4]: [LINAC2016 Conference paper on DYNAC](https://github.com/dynac-source/DYNAC-download/blob/main/LINAC2016_MOPRC007.pdf) (PDF format)  
+[^5]: [LINAC2002 Conference paper on HERSC](https://github.com/dynac-source/DYNAC-download/blob/main/LINAC2002_TH424.PDF) (PDF format)  
 
 **MORE INFORMATION**  
 More information on DYNAC can be found in the following presentations:  
