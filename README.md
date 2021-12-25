@@ -77,7 +77,7 @@ More information on DYNAC can be found in the following presentations:
 Detailed descriptions of some of the elements and methodologies used are available:  
 Electron gun: [EGUN in DYNAC](https://github.com/dynac-source/DYNAC-download/blob/main/egun_bode_2010_07_03.pdf)  
 RFQ: [RFQ in DYNAC](https://github.com/dynac-source/DYNAC-download/blob/main/RFQ_2018_05_14.pdf)  
-Cavity: [Description of the umerical method used in CAVNUM](https://github.com/dynac-source/DYNAC-download/blob/main/cavity_bode_2016_10_03.pdf)  
+Cavity: [Description of the numerical method used in CAVNUM](https://github.com/dynac-source/DYNAC-download/blob/main/cavity_bode_2016_10_03.pdf)  
 Relativistic electrons and synchrotron radiation: [Synchrotron radiation in DYNAC](https://github.com/dynac-source/DYNAC-download/blob/main/synch_rad_2010_07_03.pdf)    
 
 **CONTACT**  
