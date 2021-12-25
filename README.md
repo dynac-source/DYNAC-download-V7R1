@@ -49,22 +49,9 @@ Script to compile the dyndat source (for LINUX and MAC, text format) [complt](ht
 
 *Note: To unzip the linux/mac version of the source, type: tar xvfz dynacv7r1_source.tar.gz*
 
-# DGUI (DYNAC Graphical User Interface, V2R2)  
-DGUI is a Python3 based GUI to DYNAC. Alternatively, the DYNAC code can be exectued from the terminal.  
-DGUI V2R2 has been tested on LINUX (Mint 20 and older), MAC (Catalina and Mojave) and WINDOWS (10 and 7) and requires DYNAC V6R19 or newer and python3.8 or newer.
-Instructions for installation after downloading are in the [DGUI User Guide](https://github.com/dynac-source/DYNAC-download/blob/main/dgui_UG.pdf).  
-Modifications pertaining to DGUI V2R2 (1-May-2020): [dgui_modV2R2.txt](https://github.com/dynac-source/DYNAC-download/files/7769687/dgui_modV2R2.txt)  
-
-Please refer to the DGUI User Guide for download and installation instructions.  
-DGUI source (.py) [dgui.py](https://github.com/dynac-source/DYNAC-download/blob/main/dgui.py)  
-DGUI icon (.png) to be stored in directory dynac/bin [dynicon.png](https://github.com/dynac-source/DYNAC-download/blob/main/dynicon.png)  
-DGUI example .ini file for linux and MAC [dgui_example_linmac.ini](https://github.com/dynac-source/DYNAC-download/blob/main/dgui_example_linmac.ini)  
-DGUI example .ini file for  Windows [dgui_example_windows.ini](https://github.com/dynac-source/DYNAC-download/blob/main/dgui_example_windows.ini)  
-DGUI User Guide (pdf format) [DGUI User Guide](https://github.com/dynac-source/DYNAC-download/blob/main/dgui_UG.pdf)  
-
-*Note: The example .ini file needs to be renamed to dgui.ini (see User Guide)*  
 
 **OTHER DYNAC UTILITIES**  
+DGUI, a DYNAC Graphical User Interface.
 [ptq2dyn.f](https://github.com/dynac-source/DYNAC-download/blob/main/ptq2dyn.f) : prepares the input data file used by the RFQPTQ card. Source file in text format, compile with:  
 *gfortran ptq2dyn.f -o ptq2dyn*  
 An alternative to the above mentioned DYNAC GUI has been developed at [MSU](https://github.com/NSCLAlt/DynacGUI).
@@ -79,6 +66,21 @@ Electron gun: [EGUN in DYNAC](https://github.com/dynac-source/DYNAC-download/blo
 RFQ: [RFQ in DYNAC](https://github.com/dynac-source/DYNAC-download/blob/main/RFQ_2018_05_14.pdf)  
 Cavity: [Description of the numerical method used in CAVNUM](https://github.com/dynac-source/DYNAC-download/blob/main/cavity_bode_2016_10_03.pdf)  
 Relativistic electrons and synchrotron radiation: [Synchrotron radiation in DYNAC](https://github.com/dynac-source/DYNAC-download/blob/main/synch_rad_2010_07_03.pdf)    
+
+# DGUI (DYNAC Graphical User Interface, V2R2)  
+DGUI is a Python3 based GUI to DYNAC. Alternatively, the DYNAC code can be exectued from the terminal.  
+DGUI V2R2 has been tested on LINUX (Mint 20 and older), MAC (Catalina and Mojave) and WINDOWS (10 and 7) and requires DYNAC V6R19 or newer and python3.8 or newer.
+Instructions for installation after downloading are in the [DGUI User Guide](https://github.com/dynac-source/DYNAC-download/blob/main/dgui_UG.pdf).  
+Modifications pertaining to DGUI V2R2 (1-May-2020): [dgui_modV2R2.txt](https://github.com/dynac-source/DYNAC-download/files/7769687/dgui_modV2R2.txt)  
+
+Please refer to the DGUI User Guide for download and installation instructions.  
+DGUI source (.py) [dgui.py](https://github.com/dynac-source/DYNAC-download/blob/main/dgui.py)  
+DGUI icon (.png) to be stored in directory dynac/bin [dynicon.png](https://github.com/dynac-source/DYNAC-download/blob/main/dynicon.png)  
+DGUI example .ini file for linux and MAC [dgui_example_linmac.ini](https://github.com/dynac-source/DYNAC-download/blob/main/dgui_example_linmac.ini)  
+DGUI example .ini file for  Windows [dgui_example_windows.ini](https://github.com/dynac-source/DYNAC-download/blob/main/dgui_example_windows.ini)  
+DGUI User Guide (pdf format) [DGUI User Guide](https://github.com/dynac-source/DYNAC-download/blob/main/dgui_UG.pdf)  
+
+*Note: The example .ini file needs to be renamed to dgui.ini (see User Guide)*  
 
 **CONTACT**  
 Eugene Tanke 
