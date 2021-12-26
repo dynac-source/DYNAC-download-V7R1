@@ -1,4 +1,4 @@
-# DYNAC-download
+# DYNAC V7R1-download
 **DYNAC DOWNLOAD PAGE for DYNAC V7R1, a Multiparticle Beam Simulation Code for linacs and beam transport lines.**  
 LINUX, MAC and WINDOWS downloads for the simulation code DYNAC V7R1 can be found on this page. Instructions for installation after downloading are in the file: [readme.txt](https://github.com/dynac-source/DYNAC-download/files/6633754/readme.txt). This file is also contained in the full package below.
 
@@ -46,7 +46,7 @@ Script to compile the dyndat source (for LINUX and MAC, text format) [complt](ht
 *gfortran ptq2dyn.f -o ptq2dyn*  
 An alternative to the above mentioned DYNAC GUI has been developed at [MSU](https://github.com/NSCLAlt/DynacGUI).
 
-# DGUI-download
+# DGUI V2R2-download
 **DGUI, a DYNAC Graphical User Interface**  
 DGUI V2R2 is a Python3 based GUI to DYNAC. Alternatively, the DYNAC code can be exectued from the terminal.  
 DGUI V2R2 has been tested on LINUX (Mint 20 and older), MAC (Catalina and Mojave) and WINDOWS (10 and 7) and requires DYNAC V6R19 or newer and python3.8 or newer.
