@@ -48,6 +48,7 @@ Script to compile the dyndat source (for LINUX and MAC, text format) [complt](ht
 An alternative to the above mentioned DYNAC GUI has been developed at [MSU](https://github.com/NSCLAlt/DynacGUI).
 
 # DGUI V2R2-download
+Legacy version; the current version can be downloaded from [here](https://github.com/dynac-source/DYNAC-download-V7R1/blob/main/dgui.py) 
 **DGUI, a DYNAC Graphical User Interface**  
 DGUI V2R2 is a Python3 based GUI to DYNAC. Alternatively, the DYNAC code can be exectued from the terminal.  
 DGUI V2R2 has been tested on LINUX (Mint 20 and older), MAC (Catalina and Mojave) and WINDOWS (10 and 7) and requires DYNAC V6R19 or newer and python3.8 or newer.
@@ -55,7 +56,7 @@ Instructions for installation after downloading are in the [DGUI User Guide](htt
 Modifications pertaining to DGUI V2R2 (1-May-2020): [dgui_modV2R2.txt](https://github.com/dynac-source/DYNAC-download/files/7769687/dgui_modV2R2.txt)  
 
 Please refer to the DGUI User Guide for download and installation instructions.  
-DGUI source (.py) [dgui.py](https://github.com/dynac-source/DYNAC-download/blob/main/dgui.py)  
+DGUI source (.py) [dgui.py](https://github.com/dynac-source/DYNAC-download-V7R1/blob/main/dgui_V2R2.py)  
 DGUI icon (.png) to be stored in directory dynac/bin [dynicon.png](https://github.com/dynac-source/DYNAC-download/blob/main/dynicon.png)  
 DGUI example .ini file for linux and MAC [dgui_example_linmac.ini](https://github.com/dynac-source/DYNAC-download/blob/main/dgui_example_linmac.ini)  
 DGUI example .ini file for  Windows [dgui_example_windows.ini](https://github.com/dynac-source/DYNAC-download/blob/main/dgui_example_windows.ini)  
